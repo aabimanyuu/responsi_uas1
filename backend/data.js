@@ -18,10 +18,10 @@ const skills = [
     { name: 'Git & GitHub', level: 'Pemula' }, { name: 'HTML5 & CSS3', level: 'Pemula' }
 ];
 const projects = [ 
-    { title: 'Notifikasi Damage Game', image: '/src/assets/img/Notifikasi.png',
-    description: 'Sistem Notifikasi Damage Game Sederhana', tech: ['C#'
+    { title: 'Submit Mounth Everst', image: '/src/assets/img/ROBLOX EVEREST.jpg',
+    description: 'Menaklukan Gunung Tertinggi di Dunia', tech: ['Asoy'
 ], link: '#' },
-    { title: 'Simulasi Traffic Light', image: '/src/assets/img/TrafficL.png',
-    description: 'Simulasi traffic light dengan protheus', tech: ['Protheus 8', 'CVAVR'], link: '#' }
+    { title: 'COMING SOON', image: '/src/assets/img/g2.jpg',
+    description: 'COMING SOON',}
 ];
 module.exports = { educationHistory, skills, projects };
